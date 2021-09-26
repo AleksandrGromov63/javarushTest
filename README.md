@@ -1,2 +1,1 @@
-# javarushTest
 easy REST application
